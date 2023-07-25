@@ -4,4 +4,5 @@ This repository is a collection of files to help people with Lasertag hardware b
 This includes the following Lasertag related builds...
 
 - [Matrix target](matrix-target/) - a dot-matrix test/practice target for WoW, UKLTA DoT and MilesTag/LaserWar
-- [XLoader](xloader/) - a standalone uploader (Windows) for binary files to classic AVR microcontrollers. This is seemingly abandonware and is in this repository as a convenience given many online searches show up dubious malware
+
+It also includes, [XLoader](xloader/) - a standalone uploader (Windows) for binary files to classic AVR microcontrollers. This is seemingly abandonware and is in this repository purely as a convenience given many online searches for it now show up dubious malware.

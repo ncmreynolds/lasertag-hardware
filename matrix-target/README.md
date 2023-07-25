@@ -54,3 +54,13 @@ There are two variants of the firmware. This is because there are two common var
 
 To flash the firmware, either use XLoader (Windows only) or once I can work out the mechanism I'll add direct WebSerial flashing for Chrome users (all platforms).
 
+## Enclosure
+
+STL files for 3D printing are included for a basic enclosure. You will also need a piece of 2mm acrylic, ideally white 80mm x 80mm to act as a diffuser and to protect the matrix from damage.
+
+Place the acrylic in the front of the enclosure then use the spacer to hold the LED matrix central.
+
+All the parts can be fixed with hot glue or epoxy. Avoid cyanoacrylate/super glue as the outgassing it exhibits can damage the acrylic and/or the IR receiver.
+
+
+
