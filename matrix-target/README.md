@@ -44,7 +44,9 @@ The power switch and charging socket are wired like this so you cannot have the 
 
 The LED matrix is wired directly to the power switch, not the 5V regulator of the Arduino, as it can draw quite a lot of current at full brightness.
 
-![](Matrix target_bb.png)
+
+
+![](matrix-target_bb.png)
 
 ## Firmware
 
